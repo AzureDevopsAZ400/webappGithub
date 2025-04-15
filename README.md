@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/KhalilGreene/AZ-400/_apis/build/status%2FAzureDevopsAZ400.webappGithub?branchName=master)](https://dev.azure.com/KhalilGreene/AZ-400/_build/latest?definitionId=2&branchName=master)
